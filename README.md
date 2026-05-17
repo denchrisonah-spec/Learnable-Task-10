@@ -30,7 +30,7 @@ You can execute the file directly using `ts-node`:
 ts-node todolists.ts
 ```
 
-Alternatively, you can compile it to JavaScript and then run it using Node.js:
+Or you can compile it to JavaScript and then run it using Node.js:
 
 ```bash
 tsc todolists.ts
